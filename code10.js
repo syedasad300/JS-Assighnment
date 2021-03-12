@@ -1,0 +1,1 @@
+document.write("<p>Value after variable declaration is undefined</p> <p>Initial value:5</p> <p>Value after increment is:6</p> <p>Value after addition is:13</p> <p>Value after decrement is:12</p> <p>The remainder is:0 </p> ")

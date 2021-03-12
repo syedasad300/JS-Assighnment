@@ -1,0 +1,1 @@
+document.write("<h1>Currency in PKR</h1> <p>Total Currency in PKR:1748 </p>");

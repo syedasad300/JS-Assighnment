@@ -1,0 +1,3 @@
+//document.write('<p>a. A heading stating "Rules for naming JS variables"</p> <p>b. Variable names can only contain__________,_________,</p> <p>c. ________and_______.</p> <p>d. For example $my_1stVariable.</p> <p>e. Variables must begin with a________,________or</p> <p>f. _______. For example $name,_name or name</p> <p>g. Variable names are case________</p> <p>h. Variable names should not be JS________ ');
+
+document.write("<h2> Rules for naming JS variables </h2>  <p> Variable names can only contain numbers,$ and _.For example: $my_1stVariable </p> <p>Variable must begin with a letter,$ or_.For example:$name,_name or name </p>  <p>Variable names are case sensitive</p> <p>Variable names should not be JS keyword  </p>    ");

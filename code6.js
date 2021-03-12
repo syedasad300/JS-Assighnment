@@ -1,0 +1,1 @@
+document.write("<p>My birth year is 1993</p> <p>Declared type of my data type is number</p>");

@@ -1,0 +1,1 @@
+document.write("<p>Subtraction between 16 and 8 is 8</p> <p>Multiplication of 4 and 2 is 8 </p> <p>Division between 8 by 2 is 8</p> <p>Modulus of 17 divided by 9 is 8</p>")

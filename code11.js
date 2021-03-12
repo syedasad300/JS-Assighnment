@@ -1,0 +1,1 @@
+document.write("<p>25C is 77F</p> <p>70F is 21.1111111C</p>");

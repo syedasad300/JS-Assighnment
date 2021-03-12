@@ -1,0 +1,1 @@
+document.write("Sum of 3 and 5 is 8");

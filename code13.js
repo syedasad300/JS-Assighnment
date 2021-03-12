@@ -1,0 +1,1 @@
+document.write('<p>Result:<br/>The value of a is: 10</p> <hr style="border-top: 2px dotted black"/> <p>The value of ==a is: 11<br/>Now the value of a is:11</p> <p>The value of a++ is: 11 <br/> Now the value of a is:12</p> <p>The value of --a is:11 <br/> Now the value of a is:11</p> <p> The value of a-- is:11 <br/>Now the value of a is: 10</p> ');
